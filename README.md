@@ -4,7 +4,7 @@
   <img width="auto" height="auto" style="border-radius: 8px; margin-bottom: 6px;" src="./.github/images/readme-splash.png">
 </div>
 
-Headless audio player for building universal music apps in React Native. Supports Android, iOS, Web, and Expo Go without requiring custom native code. Using a WebView bridge and HTML5 audio, it aims to achieve similar functionality to [react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) _(see comparison table below)_.
+React Native WebView Track Player is a headless audio player for building universal audio apps in React Native. It supports Android, iOS, Web, and Expo Go out-of-the-box. Using a WebView bridge, it aims to achieve similar functionality to [react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) without requiring custom native code _(see comparison table below)_.
 
 Check out the [example app](/example) for a full-fledged music player sample.
 
