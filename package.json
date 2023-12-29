@@ -1,6 +1,6 @@
 {
   "name": "react-native-webview-track-player",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Headless audio player for building universal music apps in React Native.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
